@@ -1,4 +1,5 @@
-import { Container, Row, Col, Navbar, Nav, Media, Image, Card } from 'react-bootstrap';
+import { Container, Row, Col, Media, Image, Card } from 'react-bootstrap';
+import Navbar from './components/Navbar';
 
 export default function Home() {
 
